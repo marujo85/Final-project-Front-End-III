@@ -1,5 +1,5 @@
 # GrowDevSicredi-PROJETO FINAL FRONT END III
-## Este repositório destina-se à entrega da atividade final dO módulo Front End III.
+## Este repositório destina-se à entrega da atividade final do módulo Front End III.
 [Acesse a resolução aqui] (https://marujo85.github.io/Final-project-Front-End-III/)
 ------------------------------------------------------------
 # GrowDevSicredi - Final Project Front End III
